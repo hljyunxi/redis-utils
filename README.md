@@ -1,4 +1,4 @@
 redis-lock
 ==========
 
-redis based lock
+redis based utils
