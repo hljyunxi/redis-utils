@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding: gb2312
+#coding: utf8
 
 #基于redis zset实现的限速组件
 #实现主要是参考了：
